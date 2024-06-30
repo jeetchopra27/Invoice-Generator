@@ -29,6 +29,4 @@ npm start / npm run build
 - [ ] Store invoices in Firebase DB
 
 
-### Meta
 
-John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
